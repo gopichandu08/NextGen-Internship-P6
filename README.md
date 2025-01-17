@@ -1,2 +1,2 @@
-# NextGen-Internship-P6
+Getting Started with Create React App
 Healthy food 
